@@ -1,0 +1,64 @@
+body{
+	
+	background-image: url(https://images.wallpapersden.com/image/download/gliese-1214-b-digital_bG1saWeUmZqaraWkpJRpZ2ZtrWdtZmc.jpg);
+	background-color:black;
+}	
+
+.title{
+	color: #FFCC00;
+	margin-top: 100px;
+	margin-left: 30px;
+	margin-bottom: 50px;
+}
+
+h6,h5{
+	color: #FFCC00;
+}
+
+.imagen1{
+	margin-top: 30px;
+	margin-left: auto;
+ 	margin-right: auto;
+	border-radius: 100%;
+	width: 30%;
+    border: 5px solid #1a0504;;
+    display: block;
+
+}
+
+.rounded {
+    width: 600px;
+    height: 100%;
+}
+
+.form-control{
+	
+    font-weight: 700!important;	
+	margin-left: 50px!important;
+	width: 0.5%;
+	background-color: #ffdc50!important;
+	flex: 0.9 1 auto!important;
+	margin: 5px!important
+
+}
+
+.inputs{
+	border-top: 50px;
+	margin-left: 60px;
+	width: 90%;
+	font-weight: bolder;
+	
+}
+
+.btn{
+	margin-left: 47%;
+	font-weight: 500;
+	background-color: #ffdc50!important;
+	font-weight: 700!important;
+	margin-bottom: 30px;
+}
+
+.btn-outline-secondary {
+    color: #000000!important;
+    border-color: #ffdc50;
+}
